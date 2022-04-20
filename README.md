@@ -6,7 +6,7 @@ Drug-food interactions (DFIs) occur when some constituents of food affect the bi
 
 ## Dataset
 
-We provide two processed datasets: drugbank-DFI and pubmed-DFI.
+We provide two processed datasets: drugbank-DFI and pubmed-DFI. If you need these two datasets, please contact jjyang1125@mail.nwpu.edu.cn.
 
 ## An example to run DFinder
 
